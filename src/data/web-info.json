@@ -1,0 +1,33 @@
+{
+  "name": "JayChiva",
+  "metadata": {
+    "title": "JayChiva - Web Development Services",
+    "description": "Professional web development services to help you build your online presence.",
+    "keywords": "web development, web design, digital marketing, SEO"
+  },
+  "social_media": {
+    "twitter": "https://twitter.com"
+  },
+  "navLinks": [
+    {
+      "label": "Services",
+      "url": "#services"
+    },
+    {
+      "label": "Portfolio",
+      "url": "#portfolio"
+    },
+    {
+      "label": "About",
+      "url": "#about"
+    },
+    {
+      "label": "Faq",
+      "url": "#faq"
+    },
+    {
+      "label": "Contact",
+      "url": "#contact"
+    }
+  ]
+}

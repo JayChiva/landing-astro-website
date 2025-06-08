@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Services",
+    "url": "#services"
+  },
+  {
+    "label": "Portfolio",
+    "url": "#portfolio"
+  },
+  {
+    "label": "About",
+    "url": "#about"
+  },
+  {
+    "label": "Faq",
+    "url": "#faq"
+  },
+  {
+    "label": "Contact",
+    "url": "#contact"
+  }
+]
