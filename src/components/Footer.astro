@@ -1,11 +1,9 @@
 ---
 import webInfo from '../data/web-info.json';
-import background from '../assets/background.svg';
 const currentYear = new Date().getFullYear();
 ---
 
 <footer class='text-center text-white bg-gray-950 py-10 px-6'>
-  <img id='background' src={background.src} alt='' fetchpriority='high' />
   <nav class='flex justify-center gap-4 pb-10'>
     {
       webInfo.navLinks.map((link) => (
